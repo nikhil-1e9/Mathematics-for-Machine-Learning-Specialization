@@ -19,3 +19,13 @@
   - Practice Quizzes
     - [Using matrices to make transformations](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%203/1.%20Practice%20Quiz%20-%20Using%20matrices%20to%20make%20transformations.pdf)
     - [Solving linear equations using the inverse matrix](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%203/2.%20Practice%20Quiz%20-%20Solving%20linear%20equations%20using%20the%20inverse%20matrix.pdf)
+  - Programming Assignment
+    - [Identifying Special Matrices](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%203/Programming%20Assignment/IdentifyingSpecialMatrices.ipynb)
+
+- Week 4
+  - Practice Quizzes
+    - [Non-square matrix multiplication](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%204/1.%20Practice%20Quiz%20-%20Non-square%20matrix%20multiplication.pdf)
+    - [Using non-square matrices to do a projection](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%204/2.%20Practice%20Quiz%20-%20Using%20non-square%20matrices%20to%20do%20a%20projection.pdf)
+  - Programming Assignments
+    - [Gram-Schmidt Process](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%204/Programming%20Assignments/GramSchmidtProcess.ipynb)
+    - [Reflecting Bear](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%204/Programming%20Assignments/ReflectingBear.ipynb)
