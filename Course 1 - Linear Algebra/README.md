@@ -14,3 +14,8 @@
     - [Linear dependency of a set of vectors](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%202/3.%20Practice%20Quiz%20-%20Linear%20dependency%20of%20a%20set%20of%20vectors.pdf)
   - Graded Quiz
     - [Vector operations assessment](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%202/Graded%20Quiz%20-%20Vector%20operations%20assessment.pdf)
+
+- Week 3
+  - Practice Quizzes
+    - [Using matrices to make transformations](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%203/1.%20Practice%20Quiz%20-%20Using%20matrices%20to%20make%20transformations.pdf)
+    - [Solving linear equations using the inverse matrix](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%203/2.%20Practice%20Quiz%20-%20Solving%20linear%20equations%20using%20the%20inverse%20matrix.pdf)
