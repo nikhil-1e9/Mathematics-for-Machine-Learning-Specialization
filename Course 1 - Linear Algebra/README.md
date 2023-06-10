@@ -29,3 +29,13 @@
   - Programming Assignments
     - [Gram-Schmidt Process](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%204/Programming%20Assignments/GramSchmidtProcess.ipynb)
     - [Reflecting Bear](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%204/Programming%20Assignments/ReflectingBear.ipynb)
+
+- Week 5
+  - Practice Quizzes
+    - [Selecting eigenvectors by inspection](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%205/1.%20Practice%20Quiz%20-%20Selecting%20eigenvectors%20by%20inspection.pdf)
+    - [Characteristic polynomials, eigenvalues and eigenvectors](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%205/2.%20Practice%20Quiz%20-%20Characteristic%20polynomials,%20eigenvalues%20and%20eigenvectors.pdf)
+    - [Diagonalization and applications](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%205/3.%20Practice%20Quiz%20-%20Diagonalisation%20and%20applications.pdf)
+  - Graded Quiz
+    - [Eigenvalues and eigenvectors](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%205/Graded%20Quiz%20-%20Eigenvalues%20and%20eigenvectors.pdf)
+  - Programming Assignment
+    - [Page Rank](https://github.com/nikhil-1e9/Mathematics-for-Machine-Learning-Specialization/blob/main/Course%201%20-%20Linear%20Algebra/Week%205/Programming%20Assignment/PageRank.ipynb)
